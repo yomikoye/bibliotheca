@@ -23,7 +23,7 @@
 
 ## Demo
 
-Check out the live demo of Bibliotheca [here](#) (link to be provided after deployment).
+Check out the live demo of Bibliotheca [here](#) (bibliotheca.koyecloud.com).
 
 ## Installation
 
@@ -31,7 +31,7 @@ To run Bibliotheca locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/bibliotheca.git
+   git clone https://github.com/yomikoye/bibliotheca.git
    cd bibliotheca
    ```
 
